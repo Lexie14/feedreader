@@ -11,7 +11,7 @@ To see this project, you should clone this repository to your local one and open
 
 The Project tests:
 1. RSS Feeds, whether they:
- - are defined;
+   - are defined;
  - their URL is defined and not empty;
  - their names are defiend and not empty;
  
