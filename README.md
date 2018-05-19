@@ -10,14 +10,14 @@ To see this project, you should clone this repository to your local one and open
 ## Description
 
 The Project tests:
-1. RSS Feeds, whether they:
-   - are defined;
+1. RSS Feeds, whether:
+   - they are defined;
    - their URL is defined and not empty;
    - their names are defiend and not empty;
  
 2. The menu, whether it:
    - is hidden by default;
-   - it changs its visibility when the menu icon is clicked (two cases).
+   - changes its visibility when the menu icon is clicked (two cases).
 
 3. Inititial Entries:
    - ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
