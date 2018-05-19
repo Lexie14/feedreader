@@ -5,7 +5,7 @@ This project is aimed at creating tests (within the Jasmine framework) for given
 
 ## Start
 
-To see this project, you should clone this repository to your local one and open the index.html file in your browser, where you wiil be able to see the results of Jasmine testing at the bottom of the page.
+To see this project, you should clone this repository to your local one and open the index.html file in your browser, where you wiil be able to see the results of Jasmine testing at the bottom of the page. Or check this https://lexie14.github.io/feedreader/
 
 ## Description
 
